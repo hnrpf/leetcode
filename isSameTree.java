@@ -1,6 +1,6 @@
 package leetcode;
 
-public class isSameTree {
+public class isSameTree {	
 
 	/**
 	 * @param args
