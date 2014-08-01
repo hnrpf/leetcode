@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.Stack;
 
-public class EvalRPN {
+public class EvalRPN {	
 
 	/**
 	 * @param args
