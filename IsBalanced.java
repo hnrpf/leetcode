@@ -1,6 +1,6 @@
 package leetcode;
 
-public class IsBalanced {
+public class IsBalanced {	
 
 	/**
 	 * @param args
