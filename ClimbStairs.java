@@ -1,7 +1,7 @@
 package leetcode;
 
-public class ClimbStairs {
-
+public class ClimbStairs {	//Climbing Stairs
+	
 	/**
 	 * @param args
 	 */
