@@ -1,6 +1,6 @@
 package leetcode;
 
-public class DeleteDuplicates {
+public class DeleteDuplicates {	
 
 	/**
 	 * @param args
