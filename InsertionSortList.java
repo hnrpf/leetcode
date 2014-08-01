@@ -1,6 +1,6 @@
 package leetcode;
 
-public class InsertionSortList {
+public class InsertionSortList {	
 
 	/**
 	 * @param args
