@@ -2,7 +2,7 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
-public class InOrderTraversal {			//中序遍历二叉树，迭代方式
+public class InOrderTraversal {			//中序遍历二叉树，迭代方式	
 
 	/**
 	 * @param args
